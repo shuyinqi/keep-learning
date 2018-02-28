@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jmeter:war">
+    <output-path>$PROJECT_DIR$/jmeter/target</output-path>
+    <root id="archive" name="jmeter.war">
+      <element id="artifact" artifact-name="jmeter:war exploded" />
+    </root>
+  </artifact>
+</component>
